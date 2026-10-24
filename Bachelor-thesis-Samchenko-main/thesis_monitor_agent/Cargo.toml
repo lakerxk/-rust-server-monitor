@@ -1,0 +1,29 @@
+[package]
+name = "thesis_monitor_agent"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Config and parsing
+serde = { version = "1.0", features = ["derive"] }
+toml = "0.9.7"
+serde_json = "1.0"
+anyhow = "1.0"
+
+
+# Logging
+log = "0.4"
+env_logger = "0.11.8"
+
+# System metrics (pin to a known API)
+sysinfo = "0.37.2"
+
+# Log scanning
+regex = "1.10"
+
+# Telegram + async runtime
+reqwest = { version = "0.12", features = ["json", "blocking"] }
+tokio = { version = "1", features = ["full"] }
+
+# Optional
+chrono = "0.4"

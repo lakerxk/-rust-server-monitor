@@ -1,0 +1,10 @@
+/Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/deps/toml_writer-1a6be8c88da0f6cf.d: /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/lib.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/integer.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/key.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/string.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/value.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/write.rs
+
+/Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/deps/libtoml_writer-1a6be8c88da0f6cf.rmeta: /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/lib.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/integer.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/key.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/string.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/value.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/write.rs
+
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/lib.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/integer.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/key.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/string.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/value.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/toml_writer-1.0.3/src/write.rs:

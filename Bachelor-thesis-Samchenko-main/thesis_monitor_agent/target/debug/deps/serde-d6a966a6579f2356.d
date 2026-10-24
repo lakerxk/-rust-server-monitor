@@ -1,0 +1,11 @@
+/Users/lakerxk/Documents/GitHub/Thesis/server_monitor_agent/target/debug/deps/serde-d6a966a6579f2356.d: /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/lib.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/integer128.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/mod.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/de.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/ser.rs
+
+/Users/lakerxk/Documents/GitHub/Thesis/server_monitor_agent/target/debug/deps/libserde-d6a966a6579f2356.rlib: /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/lib.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/integer128.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/mod.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/de.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/ser.rs
+
+/Users/lakerxk/Documents/GitHub/Thesis/server_monitor_agent/target/debug/deps/libserde-d6a966a6579f2356.rmeta: /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/lib.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/integer128.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/mod.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/de.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/ser.rs
+
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/lib.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/integer128.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/mod.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/de.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.224/src/private/ser.rs:

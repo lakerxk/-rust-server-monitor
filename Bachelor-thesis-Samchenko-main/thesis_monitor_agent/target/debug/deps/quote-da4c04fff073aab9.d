@@ -1,0 +1,11 @@
+/Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/deps/quote-da4c04fff073aab9.d: /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/lib.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/ext.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/format.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/ident_fragment.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/to_tokens.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/runtime.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/spanned.rs
+
+/Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/deps/libquote-da4c04fff073aab9.rmeta: /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/lib.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/ext.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/format.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/ident_fragment.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/to_tokens.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/runtime.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/spanned.rs
+
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/lib.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/ext.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/format.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/ident_fragment.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/to_tokens.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/runtime.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.41/src/spanned.rs:

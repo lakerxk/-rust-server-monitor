@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["handle_command","poll_updates"],"struct":["Chat","Message","Update"]};

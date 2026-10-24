@@ -1,0 +1,14 @@
+/Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/deps/serde-ff4eae2fd19f7b88.d: /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/build/serde-8c3a8118be904d2c/out/private.rs
+
+/Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/deps/libserde-ff4eae2fd19f7b88.rlib: /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/build/serde-8c3a8118be904d2c/out/private.rs
+
+/Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/deps/libserde-ff4eae2fd19f7b88.rmeta: /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/build/serde-8c3a8118be904d2c/out/private.rs
+
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/lakerxk/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/build/serde-8c3a8118be904d2c/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/lakerxk/Documents/GitHub/Thesis/thesis_monitor_agent/target/debug/build/serde-8c3a8118be904d2c/out

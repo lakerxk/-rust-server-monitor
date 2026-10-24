@@ -1,0 +1,16 @@
+# Paths to logs the agent should scan
+log_paths = [
+  "/var/log/syslog",
+  "/var/log/nginx/error.log"
+]
+
+# Telegram bot credentials
+telegram_token = "8492329512:AAHMQOkFHFt-u7eAeRE01xDfP-V5d0BjdRk"
+telegram_chat_id = "799936539"
+
+[thresholds]
+rx_kb_per_sec = 200
+tx_kb_per_sec = 200
+
+[sampling]
+period_secs = 2

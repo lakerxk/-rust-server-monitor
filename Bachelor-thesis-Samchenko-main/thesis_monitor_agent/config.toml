@@ -5,8 +5,8 @@ log_paths = [
 ]
 
 # Telegram bot credentials
-telegram_token = "8492329512:AAHMQOkFHFt-u7eAeRE01xDfP-V5d0BjdRk"
-telegram_chat_id = "799936539"
+telegram_token = ""
+telegram_chat_id = ""
 
 [thresholds]
 rx_kb_per_sec = 200
